@@ -17,7 +17,12 @@ class HomeController extends Controller
 
     public function index()
     {
+
         $user = Auth::user();
+        $workingTimes = WorkingTime::where('user_id', $user->id)->count();
+        if (!$workingTimes) {
+            return redirect()->route('smjena.postavke');
+        }
         $public = false;
         return view('home', compact('user', 'public'));
     }

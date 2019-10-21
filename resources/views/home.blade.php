@@ -72,7 +72,7 @@
                         $('#calendar').fullCalendar('changeView', 'agendaDay');
                     }
                 },
-                eventSources: [
+                events:
 
 // your event source
                     {
@@ -86,9 +86,6 @@
                         },
                     },
 
-// any other sources...
-
-                ],
             });
 
             if ($("#sharing_link").length) {

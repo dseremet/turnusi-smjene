@@ -38,6 +38,7 @@
                 copyToClipboardMsg(document.getElementById("sharing_link"), "msg");
             });
             $("#calendar").fullCalendar({
+                height: 'auto',
                 nowIndicator: true,
                 views: {
                     agendaDay: {

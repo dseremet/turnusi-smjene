@@ -7,7 +7,7 @@
             <p>Treutni nacin rada - Dnevna: 12h radno, 24h neradno, Nocna: 12h radno, 48h neradno</p>
         </div>
         <div class="col-md-6 col-md-offset-3">
-            <form action="{{ route('smjena.postavke') }}" method="POST">
+            <form action="{{ route('smjena.postavke') }}" method="POST" autocomplete="off">
                 {!! csrf_field() !!}
                 <div class="row">
                     <div class="form-group">

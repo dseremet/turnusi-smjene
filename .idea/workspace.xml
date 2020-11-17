@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ac3a27b-a012-4b9a-bc71-1798a184bf05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_11_17_20__7_48_AM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/turnus-shifts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/turnus-shifts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Services/ShiftService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/ShiftService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +182,7 @@
       <workItem from="1571641386515" duration="33000" />
       <workItem from="1571642727881" duration="78000" />
       <workItem from="1571663499915" duration="17000" />
-      <workItem from="1605595691585" duration="330000" />
+      <workItem from="1605595691585" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="Izmjene">
       <created>1571641308727</created>
@@ -211,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571642751260</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="smjene prikaz">
+      <created>1605596049742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605596049742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,13 +220,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Izmjene" />
-    <option name="LAST_COMMIT_MESSAGE" value="Izmjene" />
+    <MESSAGE value="smjene prikaz" />
+    <option name="LAST_COMMIT_MESSAGE" value="smjene prikaz" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2163" y="-109" key="#xdebugger.evaluate" timestamp="1605595862980">
       <screen x="1440" y="-223" width="1920" height="986" />
     </state>
     <state x="2163" y="-109" key="#xdebugger.evaluate/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605595862980" />
+    <state x="2036" y="-223" width="727" height="986" key="CommitChangelistDialog2" timestamp="1605596049560">
+      <screen x="1440" y="-223" width="1920" height="986" />
+    </state>
+    <state x="2036" y="-223" width="727" height="986" key="CommitChangelistDialog2/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605596049560" />
     <state width="1878" height="319" key="GridCell.Tab.0.bottom" timestamp="1605595970517">
       <screen x="1440" y="-223" width="1920" height="986" />
     </state>
@@ -278,14 +284,18 @@
       <screen x="1440" y="-223" width="1920" height="986" />
     </state>
     <state x="2130" y="6" width="540" height="540" key="StructurePopup/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605595826392" />
+    <state x="2000" y="3" key="Vcs.Push.Dialog.v2" timestamp="1605596051339">
+      <screen x="1440" y="-223" width="1920" height="986" />
+    </state>
+    <state x="2000" y="3" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605596051339" />
     <state x="2100" y="9" width="600" height="522" key="find.popup" timestamp="1605595751225">
       <screen x="1440" y="-223" width="1920" height="986" />
     </state>
     <state x="2100" y="9" width="600" height="522" key="find.popup/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605595751225" />
-    <state x="2065" y="-6" width="670" height="676" key="search.everywhere.popup" timestamp="1605595823665">
+    <state x="2065" y="-6" width="670" height="676" key="search.everywhere.popup" timestamp="1605596204529">
       <screen x="1440" y="-223" width="1920" height="986" />
     </state>
-    <state x="2065" y="-6" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605595823665" />
+    <state x="2065" y="-6" width="670" height="676" key="search.everywhere.popup/0.25.1440.875/1440.-223.1920.986@1440.-223.1920.986" timestamp="1605596204529" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

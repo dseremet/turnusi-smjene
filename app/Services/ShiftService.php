@@ -92,8 +92,8 @@ class ShiftService
             $title .= ($workingTime->working_from->format('H:i') . '-' . $workingTime->working_to->format('H:i'));
 
             return [
-                'start' => $workingTime->working_from,
-                'end' => $workingTime->working_to,
+                'start' => $workingTime->working_from->format('c'),
+                'end' => $workingTime->working_to->format('c'),
                 'title' => $title,
                 'color' => $color
             ];
